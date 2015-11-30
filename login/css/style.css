@@ -1,0 +1,26 @@
+body{background-color: #fdf8f2; font: "微软雅黑"; color: #F0B997;}
+
+
+* { box-sizing: border-box;  left; list-style: none}
+#login_header{position: fixed;right: 0;left: o;z-index: 10;width: 100%;height: 77px;background: url(../imges/title.jpg);
+}
+
+.login_form{ background-color:#fdf8f2;position:fixed;top:30%;left: 10%;}
+.mui-input-row{border: 1px solid #f0b997; margin-top:10px; border-radius: 6px;}
+.login_label1{ position: absolute; top: 0px; left: 0px; background: url(../imges/name.jpg) no-repeat; width: 43px; height: 44px; }
+.login_label2{ background: url(../imges/password.jpg) no-repeat; width: 43px; height: 44px;}
+#account,#password{ border: 1px solid #FDF8F2;}
+#login{ width: 80%; height: 20%; position: fixed; top:60%; left: 7%; background: url(../imges/login.jpg) no-repeat;border: none; border-radius: 6px;}
+
+
+.mui-pull-left{position: fixed; top: 0; left: 0; color: #F0B997; background: #FDF8F2;}
+.left_top{ width: 100%; height: 200px; background: #F0B997; position: fixed; top: 0; left: 0;}
+.left_exit{position: fixed; top:0; left: 1px; color: #ac5658;}
+.left_username{ position: absolute; top: 40px; left: 20px; color: #fff; font-size: 30px;}
+.mui-icon-gear{ position: absolute; top:40px; right: 20px;}
+.left_photo{ position: fixed; top: 150px; left: 30px; width: 40%; height: 100px;}
+
+.bannar{ width: 100%; height: 40%;}
+.sign_up{ background-color:#fdf8f2; position: fixed;top: 44px; left: 10%;}
+#sign_up{ border: 1px solid #F0B997;width: 40%; height: 10%; margin-top: 10px ; margin-left: 15%; color:#F0B997;}
+.content_img1{width: 30%; height: 20%; margin-top: 10px; margin-left: 2%;}
